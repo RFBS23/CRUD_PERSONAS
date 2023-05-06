@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CRUDPersonas</string>
+
+    <!--principal-->
+    <string name="tituloprin">Mi Crud con Android Studio</string>
+    <string name="nombre">FABRIZIO BARRIOS SAAVEDRA</string>
+    <string name="botonP">Registrar</string>
+    <string name="botonA">Actualizar</string>
+    <string name="btnU">Buscar</string>
+    <string name="btnD">Eliminar</string>
+    <string name="btnI">Mas Informacion</string>
+    <!--fin principal-->
+
+    <string name="btndb">Ir a Crear Base de Datos</string>
+    <string name="database">Crear Database</string>
+    <string name="dbregresar">Regresar a pagina principal</string>
+    <!--registrar-->
+    <string name="usuarioR">Escribe tu Nombre de Usuario: </string>
+    <string name="nombreR">Escribe tu Nombre: </string>
+    <string name="apellidosR">Escribe tu Apellido: </string>
+    <string name="telefonoR">Ingresa tu Telefono: </string>
+    <string name="correoR">Ingresa tu Correo: </string>
+    <string name="btnRegistrar">Registrar Persona</string>
+    <!--fin registrar-->
+    <!--navbar-->
+    <string name="cajaNav">Caja de Navegacion</string>
+    <string name="abrinav">Abrir Navegacion</string>
+    <string name="cerrarnav">Cerrar Navegacion</string>
+    <!--fin navbar-->
+</resources>
