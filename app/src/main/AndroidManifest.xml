@@ -13,6 +13,12 @@
         android:theme="@style/Theme.CRUDPersonas"
         tools:targetApi="31">
         <activity
+            android:name=".actualizar"
+            android:exported="false" />
+        <activity
+            android:name=".Buscar"
+            android:exported="false" />
+        <activity
             android:name=".Registrar"
             android:exported="false" />
         <activity

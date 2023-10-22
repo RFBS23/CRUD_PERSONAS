@@ -22,9 +22,9 @@
     <string name="correoR">Ingresa tu Correo: </string>
     <string name="btnRegistrar">Registrar Persona</string>
     <!--fin registrar-->
-    <!--navbar-->
-    <string name="cajaNav">Caja de Navegacion</string>
-    <string name="abrinav">Abrir Navegacion</string>
-    <string name="cerrarnav">Cerrar Navegacion</string>
-    <!--fin navbar-->
+    <!--buscar-->
+    <string name="btnbuscar">Buscar</string>
+    <string name="buscaru">Ingrese el ID: </string>
+    <string name="buscarn">Nombre: </string>
+    <!--fin buscar-->
 </resources>

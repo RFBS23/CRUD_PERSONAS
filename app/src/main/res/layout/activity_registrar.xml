@@ -110,13 +110,11 @@
                 android:layout_marginStart="45dp"
                 android:layout_marginTop="20dp"
                 android:backgroundTint="#ef756a"
+                android:drawableEnd="@raw/btnr"
                 android:text="@string/btnRegistrar"
                 android:textColor="#000000"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                app:icon="@raw/iconadd"
-                app:iconSize="30dp"
-                app:iconTint="#FFBF00" />
+                android:textStyle="bold" />
             <!--android:layout_marginBottom="120dp"-->
 
         </LinearLayout>
