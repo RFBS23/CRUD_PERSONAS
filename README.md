@@ -1,12 +1,11 @@
-<h4>CRUD ANDROID con JAVA</h4>
-<h4>Lenguajes Utilizados:</h4>
+## CRUD ANDROID con JAVA
+# Lenguajes Utilizados:
 
-<h4 class="py-3">JAVA</h4>
-<h4 class="py-3">SQLite</h4>
-<h4 class="py-3">FLATICON</h4>
-<br>
+- JAVA
+- SQLite
+- FLATICON
 
-<h4 class="py-3">por el momento esta en mantenimiento ;)</h4>
+# por el momento esta en mantenimiento ;)</h4>
 Pero Puedes Visualizarlo en las siguientes imagenes:
 <h3 class="py-4">Parte principal</h3>
 <img src="readme/inicio.png" style="width: 250px; height: 500px;">
